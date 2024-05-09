@@ -29,7 +29,7 @@
       {
         "tag": "dns_block",
         "address": "rcode://refused"
-      },
+      }
     ],
     "rules": [
       {
